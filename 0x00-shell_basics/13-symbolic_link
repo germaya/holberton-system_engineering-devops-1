@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /holberton-system_engineering-devops/0x00-shell_basics /bin/ls/_ls_  
+ln -s /bin/ls_ls_  
